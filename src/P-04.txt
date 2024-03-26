@@ -1,0 +1,11 @@
+ARROW FUNCTIONS
+Las funciones de flecha, o arrow functions son una nueva forma de definir funciones 
+y hay distintas variantes en la sintaxis:Función de un solo parámetro.
+Al crear una arrow function de un solo parámetro no es necesario escribír los paréntesis, 
+tampoco es necesario escribír las llaves, esto se puede cuando la función es de una sola línea y devuelve un valor.
+
+CALLBACKS EN JAVASCRIPT
+Una función de callback es una función que se pasa a otra función como un argumento,
+ que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción.
+ Sin embargo, tenga en cuenta que las callbacks a menudo se utilizan para continuar con la ejecución del 
+ código después de que se haya completado una operación a sincrónica — estas se denominan devoluciones de llamada asincrónicas.
